@@ -1,5 +1,9 @@
 # Foodiary App 🍏
 
+<div align="center">
+  <img src=".github/cover.png" alt="Foodiary App Cover" width="100%">
+</div>
+
 A React Native mobile application built with Expo for tracking and managing your diet in a simple and intuitive way.
 
 ## 📱 About
